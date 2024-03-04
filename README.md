@@ -1,5 +1,4 @@
 ## Java concepts
 
 - [] Interface
-  - generics
-  - 
+  - generics Tyes "T"
